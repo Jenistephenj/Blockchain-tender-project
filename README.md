@@ -1,2 +1,16 @@
-# Blockchain-tender-project
-The Blockchain-based Tender Management Audit System is a secure and transparent digital platform designed to manage tender creation, bid submission, and auditing processes using blockchain technology. The system records all tender-related activities on a decentralized ledger, ensuring that data cannot be altered once stored. 
+# tender
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
